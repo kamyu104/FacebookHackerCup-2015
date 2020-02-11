@@ -13,19 +13,39 @@ Python solutions of Facebook Hacker Cup 2015. Solution begins with `*` means it 
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Cooking the Books](https://www.facebook.com/hackercup/problem/582062045257424/) | | | | | | |
+| 2 | [New Year's Resolution](https://www.facebook.com/hackercup/problem/1036037553088752/) | | | | | | |
+| 3 | [Laser Maze](https://www.facebook.com/hackercup/problem/1523599254559737/) | | | | | | |
 
 ## Round 1
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Homework](https://www.facebook.com/hackercup/problem/582396081891255/) | | | | | | |
+| 2 | [Autocomplete](https://www.facebook.com/hackercup/problem/313229895540583/) | | | | | | |
+| 3 | [Winning at Sports](https://www.facebook.com/hackercup/problem/688426044611322/) | | | | | | |
+| 4 | [Corporate Gifting](https://www.facebook.com/hackercup/problem/759650454070547/) | | | | | | |
 
 ## Round 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Lazy Sort](https://www.facebook.com/hackercup/problem/193964420699886/) | | | | | | |
+| 2 | [All Critical](https://www.facebook.com/hackercup/problem/1394490097513820/) | | | | | | |
+| 3 | [Autocomplete Strikes Back](https://www.facebook.com/hackercup/problem/1525315704386390/) | | | | | | |
+| 4 | [Fox Socks](https://www.facebook.com/hackercup/problem/1521672018093383/) | | | | | | |
 
 ## Round 3
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Boomerang](https://www.facebook.com/hackercup/problem/642233395880928/) | | | | | | |
+| 2 | [Lunch Scheduling](https://www.facebook.com/hackercup/problem/764700076919084/) | | | | | | |
+| 3 | [Gentrification](https://www.facebook.com/hackercup/problem/847639175277938/) | | | | | | |
+| 4 | [Fox Rocks](https://www.facebook.com/hackercup/problem/602966206500471/) | | | | | | |
 
 ## Final Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Fox Blocks](https://www.facebook.com/hackercup/problem/1548507912063902/) | | | | | | |
+| 2 | [Fox Lochs](https://www.facebook.com/hackercup/problem/354218218104277/) | | | | | | |
+| 3 | [Fox Focks](https://www.facebook.com/hackercup/problem/357702634416161/) | | | | | | |
+| 4 | [Fox Hawks](https://www.facebook.com/hackercup/problem/795373620517419/) | | | | Very Hard | | |
+| 5 | [Fox Locks](https://www.facebook.com/hackercup/problem/330876530451188/) | | | | | | |
