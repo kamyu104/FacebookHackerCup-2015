@@ -47,5 +47,5 @@ Python solutions of Facebook Hacker Cup 2015. Solution begins with `*` means it 
 | 1 | [Fox Blocks](https://www.facebook.com/hackercup/problem/1548507912063902/) | | | | | | |
 | 2 | [Fox Lochs](https://www.facebook.com/hackercup/problem/354218218104277/) | | | | | | |
 | 3 | [Fox Focks](https://www.facebook.com/hackercup/problem/357702634416161/) | | | | | | |
-| 4 | [Fox Hawks](https://www.facebook.com/hackercup/problem/795373620517419/) | | | | Very Hard | | |
+| 4 | [Fox Hawks](https://www.facebook.com/hackercup/problem/795373620517419/) | | | | | | |
 | 5 | [Fox Locks](https://www.facebook.com/hackercup/problem/330876530451188/) | | | | | | |
